@@ -15,7 +15,7 @@ import java.util.Date;
 
 // this tag is used to share across multiple classes
 @ControllerAdvice
-@RestController
+//@RestController
 public class CustomizedResponseEntityExceptionHandler extends ResponseEntityExceptionHandler {
     @ExceptionHandler(Exception.class)
     public final ResponseEntity<Object> handleAllExceptions(Exception ex, WebRequest request) {

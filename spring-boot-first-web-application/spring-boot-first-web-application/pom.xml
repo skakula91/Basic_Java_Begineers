@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.test.web.application.first</groupId>
-	<artifactId>spring-boot-first-web-application</artifactId>
+	<artifactId>spring-boot-first-web-application-codepipeline</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-first-web-application</name>
 	<description>Demo project for Spring Boot</description>
